@@ -26,5 +26,6 @@ series_note: The Cambridge Natural History, Vol X.
 subjects:
 - !lcsh 'Mammals'
 - !lcc 'QL'
+- GITenberg
 title: Mammalia
 url: http://www.gutenberg.org/ebooks/39887
